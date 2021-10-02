@@ -1,4 +1,4 @@
-package com.example.vidchat;
+package com.example.myHealth;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

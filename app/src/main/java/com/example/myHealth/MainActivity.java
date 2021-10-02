@@ -1,10 +1,9 @@
-package com.example.vidchat;
+package com.example.myHealth;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentPagerAdapter;
 import androidx.viewpager.widget.ViewPager;
 
-import android.content.Context;
 import android.os.Bundle;
 import com.google.android.material.tabs.TabLayout;
 

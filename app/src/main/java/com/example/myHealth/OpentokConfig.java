@@ -1,4 +1,4 @@
-package com.example.vidchat;
+package com.example.myHealth;
 
 import android.text.TextUtils;
 import androidx.annotation.NonNull;
